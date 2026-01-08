@@ -39,7 +39,7 @@ Estou construindo um perfil híbrido, combinando conhecimento de sistemas Enterp
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
+<!--
 ### 📊 Minha atividade no GitHub
 
 <div align="center">
@@ -48,7 +48,7 @@ Estou construindo um perfil híbrido, combinando conhecimento de sistemas Enterp
 </div>
 
 ---
-
+-->
 ### 📬 Contato
 
 Gostaria de falar sobre tecnologia, desenvolvimento ou oportunidades na área de Engenharia de Software?
