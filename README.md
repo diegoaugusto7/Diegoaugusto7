@@ -3,7 +3,7 @@
 
 
 
-🎓 Formação: Graduado em Ciências Contábeis e atualmente cursando Engenharia de Software. Estagiando na Drogaria Araujo, na Operação SAP, com foco nos modulos FI/CO.
+🎓 Formação: Graduado em Ciências Contábeis e atualmente cursando Engenharia de Software. Atualmente como Analista de Sistemas na Drogaria Araujo, na Operação SAP, com foco nos modulos FI/CO.
 
 💻 Habilidades: Com conhecimentos em HTML, CSS, JavaScript, Shopify e WordPress, SAP estou sempre em busca de aprender mais e aplicar tecnologias de forma prática.
 
